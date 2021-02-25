@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "248404467349",
+    "firebase_url": "https://app-series-y-peliculasdfg-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "app-series-y-peliculasdfg",
+    "storage_bucket": "app-series-y-peliculasdfg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248404467349:android:d479eb6a2684499081859c",
+        "android_client_info": {
+          "package_name": "com.example.app_series_y_peliculas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248404467349-bier0o76kurj16r4m7hkcnvrkqna12sd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_series_y_peliculas",
+            "certificate_hash": "d3c6038b4e2c26c942eda7c30780abbab9800569"
+          }
+        },
+        {
+          "client_id": "248404467349-uuvcucm0to8gvvksohpbuuk7oktnh773.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXNnoPEJcVifI973rHgBoqQOFDiS9y-tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248404467349-uuvcucm0to8gvvksohpbuuk7oktnh773.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

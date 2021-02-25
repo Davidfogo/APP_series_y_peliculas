@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "APP_series_y_peliculas"
